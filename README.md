@@ -23,15 +23,6 @@
 
 <br>
 
-## ⭐ Informações sobre minha conta GitHub
-<div align="center">
-    <a href="https://github.com/joaoVDM">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaoVDM&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoVDM&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-<br>
-
 ## ✉ Onde me encontrar:
 <div align="center">
     <a href = "mailto:jvitordomenem@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
